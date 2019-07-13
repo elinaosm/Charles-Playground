@@ -1,7 +1,8 @@
 .smaller-image {
     width: 350px;
     height: auto;
-    margin: auto;
+    position: relative;
+    left: 450px;
 }
 .statue-image {
     width: 300px;
